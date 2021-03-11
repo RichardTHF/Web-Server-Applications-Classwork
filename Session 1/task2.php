@@ -4,8 +4,8 @@
 </head>
     <?php
         print "Test";
-
-
+        $name = "Richard";
+        $age  = 32; 
     ?>  
 
 </html>
